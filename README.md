@@ -1,4 +1,8 @@
 # Customer-Churn-Prediction
 
 
-### 1. EDA
+### EDA, Feature Engineering, Modeling to predict customer churn for a telecom company
+
+#### Results
+
+<img src = "Final Results.png">
